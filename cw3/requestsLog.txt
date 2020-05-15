@@ -1,0 +1,16 @@
+07.04.2020 12:01:52
+GET
+/api
+?Index=s1234
+{
+"Studies": "IT", 
+"Semester": 1 
+}
+07.04.2020 12:02:02
+GET
+/api
+?Index=s1234
+{
+"Studies": "IT", 
+"Semester": 1 
+}
